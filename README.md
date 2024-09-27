@@ -3,6 +3,9 @@
 ## Summary:
 Developed a robust image segmentation method utilizing U-Net architecture to enhance object detection in self-driving cars. The model was trained on a specialized dataset, achieving high accuracy in segmenting key elements such as cars, trucks, and pedestrians. This approach significantly improved the vehicle's ability to navigate complex environments, directly contributing to advancements in autonomous driving technology and safety.
 
+
+
+
 ## Dataset
 This dataset is dedicated to self-driving car research and development. 
 link: https://www.kaggle.com/datasets/alincijov/self-driving-cars

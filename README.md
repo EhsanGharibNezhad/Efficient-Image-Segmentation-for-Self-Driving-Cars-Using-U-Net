@@ -4,7 +4,7 @@
 Developed a robust image segmentation method utilizing U-Net architecture to enhance object detection in self-driving cars. The model was trained on a specialized dataset, achieving high accuracy in segmenting key elements such as cars, trucks, and pedestrians. This approach significantly improved the vehicle's ability to navigate complex environments, directly contributing to advancements in autonomous driving technology and safety.
 
 
-
+![Description of the image](https://images.app.goo.gl/2XmSwWYnetweE4YK8)
 
 ## Dataset
 This dataset is dedicated to self-driving car research and development. 
